@@ -8,6 +8,9 @@
     "start": "node server.js",
     "dev": "node --watch --no-warnings server.js"
   },
+  "engines": {
+    "node": ">=18 <19"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
